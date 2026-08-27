@@ -1,7 +1,7 @@
-<!-- ═══════════════════════════════  BANNER  ═══════════════════════════════ -->
+<!-- ═══════════════════════════════  ANIMATED BANNER  ═══════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/banner.svg" alt="Nafisa Mehzabin — Code • Read • Lift • Repeat" width="100%" />
+  <img src="./assets/banner-animated.svg" alt="Nafisa Mehzabin — The Vintage Coder" width="100%" />
 </div>
 
 <br />
@@ -14,7 +14,10 @@
 
 <h3><code>@thevintagecoder</code></h3>
 
-<h2>CODE • READ • LIFT • REPEAT</h2>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=26&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=820&height=55&lines=A+coder+of+the+North...;Forging+projects+across+the+realm...;Writing+dispatches+from+the+Citadel...;Code+%E2%80%A2+Read+%E2%80%A2+Lift+%E2%80%A2+Repeat"
+  alt="Animated intro"
+/>
 
 <p>
   <b>Developer</b> ·
@@ -22,8 +25,6 @@
   <b>Writer</b> ·
   <b>Builder</b>
 </p>
-
-<p><b><i>Building things one quest at a time.</i></b></p>
 
 <br />
 
@@ -49,7 +50,9 @@
 
 <br />
 
----
+<div align="center">
+  <img src="./assets/raven-divider.svg" alt="" width="100%" />
+</div>
 
 <!-- ═══════════════════════════════  THE CHRONICLE  ═══════════════════════════════ -->
 
@@ -135,7 +138,9 @@ Computer Science student building projects, writing about what I learn, and coll
 
 <br />
 
----
+<div align="center">
+  <img src="./assets/embers-divider.svg" alt="" width="100%" />
+</div>
 
 <!-- ═══════════════════════════════  QUESTS OF THE REALM  ═══════════════════════════════ -->
 
@@ -244,15 +249,7 @@ A <b>Studio Ghibli-themed VS Code extension</b> bringing a forest-inspired atmos
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-<div>
-  <p>🐉 <a href="https://medium.com/@thevintagecoder/building-a-game-of-thrones-inspired-survival-predictor-as-a-beginner-machine-learning-project-dd86388d539d"><b>Building a Game of Thrones-Inspired Survival Predictor as a Beginner Machine Learning Project</b></a></p>
-
-  <p>🖐️ <a href="https://medium.com/@thevintagecoder/how-to-turn-your-webcam-into-a-game-controller-a-beginners-guide-to-computer-vision-ca6ec5753a47"><b>How to Turn Your Webcam into a Game Controller: A Beginner’s Guide to Computer Vision</b></a></p>
-
-  <p>☕ <a href="https://medium.com/@thevintagecoder/stop-clicking-run-a-step-by-step-guide-to-learning-java-the-real-way-with-sublime-text-and-the-7a0b1ea6ae8d"><b>Stop Clicking “Run”: A Step-by-Step Guide to Learning Java the Real Way with Sublime Text and the Terminal</b></a></p>
-
-  <p>🏰 <a href="https://medium.com/@thevintagecoder/walk-before-you-run-how-to-start-coding-without-the-setup-anxiety-780ab4c1b5b6"><b>Walk Before You Run: How to Start Coding Without the “Setup Anxiety”</b></a></p>
-</div>
+<p>📜 <a href="https://medium.com/@thevintagecoder"><b>Latest Medium dispatches will appear here automatically.</b></a></p>
 <!-- BLOG-POST-LIST:END -->
 
 <br />
@@ -271,7 +268,9 @@ A <b>Studio Ghibli-themed VS Code extension</b> bringing a forest-inspired atmos
 
 <br />
 
----
+<div align="center">
+  <img src="./assets/raven-divider.svg" alt="" width="100%" />
+</div>
 
 <!-- ═══════════════════════════════  BEYOND THE WALL  ═══════════════════════════════ -->
 
@@ -311,16 +310,6 @@ git commit -m "progressive overload"
 
 <br />
 
-<div align="center">
-
-<h2>🐺 HOUSE STARK</h2>
-
-<p><b><i>Quiet loyalty. Long winters. Strong commits.</i></b></p>
-
-</div>
-
-<br />
-
 ---
 
 <!-- ═══════════════════════════════  FIRE AND BLOOD  ═══════════════════════════════ -->
@@ -341,7 +330,9 @@ git commit -m "progressive overload"
 
 <br />
 
----
+<div align="center">
+  <img src="./assets/embers-divider.svg" alt="" width="100%" />
+</div>
 
 <!-- ═══════════════════════════════  WAR RECORDS  ═══════════════════════════════ -->
 
@@ -375,7 +366,33 @@ git commit -m "progressive overload"
 
 ---
 
-<!-- ═══════════════════════════════  THE WAR MAP  ═══════════════════════════════ -->
+<!-- ═══════════════════════════════  3D REALM  ═══════════════════════════════ -->
+
+<div align="center">
+
+<h1>🗺️ THE SEVEN KINGDOMS OF CODE</h1>
+
+<h3><i>My contribution history, raised into a 3D realm.</i></h3>
+
+<br />
+
+<img
+  src="./profile-3d-contrib/profile-night-view.svg"
+  alt="3D GitHub contribution realm"
+  width="100%"
+/>
+
+<br />
+
+<sub>If this is blank after your first push, run the <b>GitHub-Profile-3D-Contrib</b> workflow once from the Actions tab.</sub>
+
+</div>
+
+<br />
+
+---
+
+<!-- ═══════════════════════════════  FIERY WAR MAP  ═══════════════════════════════ -->
 
 <div align="center">
 
@@ -408,7 +425,9 @@ git commit -m "progressive overload"
 
 <br />
 
----
+<div align="center">
+  <img src="./assets/raven-divider.svg" alt="" width="100%" />
+</div>
 
 <!-- ═══════════════════════════════  SEND A RAVEN  ═══════════════════════════════ -->
 

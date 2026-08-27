@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="70" viewBox="0 0 1200 70">
+  <line x1="60" y1="35" x2="1140" y2="35" stroke="#30363D" stroke-width="2"/>
+  <line x1="500" y1="35" x2="700" y2="35" stroke="#C9A227" stroke-width="2" opacity=".8"/>
+  <g fill="#C9A227">
+    <path d="M0 14 C18 2,36 4,48 12 C37 9,29 11,21 18 C33 15,43 20,50 29 C36 22,24 23,11 30 C13 23,10 18,0 14Z"/>
+    <animateTransform attributeName="transform" type="translate"
+      values="60 20; 1090 20; 60 20"
+      dur="18s" repeatCount="indefinite"/>
+  </g>
+</svg>
