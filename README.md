@@ -193,7 +193,7 @@ Computer Science student building projects, writing about what I learn, and coll
 
 <!-- WAR MAP -->
 <div align="center">
-<h1>🐉 THE WAR MAP</h1>
+<h1>THE WAR MAP</h1>
 <h3><i>Every square marks another battle fought in the realm of code.</i></h3>
 <br>
 <picture>
@@ -211,7 +211,7 @@ Computer Science student building projects, writing about what I learn, and coll
 
 <!-- SEND A RAVEN -->
 <div align="center">
-<h1>🐦 SEND A RAVEN</h1>
+<h1>SEND A RAVEN</h1>
 <h3><i>The ravens know where to find me.</i></h3>
 <br>
 <a href="https://www.linkedin.com/in/nafisa-mehzabin-5460a7257/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=C9A227" alt="LinkedIn" height="34" /></a>
