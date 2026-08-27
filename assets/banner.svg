@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-label="Nafisa Mehzabin — The Vintage Coder">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07090c"/>
+      <stop offset="55%" stop-color="#151116"/>
+      <stop offset="100%" stop-color="#34131b"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" x2="1">
+      <stop offset="0%" stop-color="#8c6d1f"/>
+      <stop offset="50%" stop-color="#d1ad4a"/>
+      <stop offset="100%" stop-color="#8c6d1f"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1400" height="420" fill="url(#bg)"/>
+
+  <!-- distant stars / embers -->
+  <g fill="#d1ad4a" opacity=".45">
+    <circle cx="90" cy="70" r="2"/><circle cx="160" cy="120" r="1.5"/><circle cx="230" cy="60" r="1"/>
+    <circle cx="1160" cy="90" r="2"/><circle cx="1280" cy="135" r="1.5"/><circle cx="1090" cy="52" r="1"/>
+    <circle cx="360" cy="95" r="1.5"/><circle cx="980" cy="110" r="1.5"/>
+  </g>
+
+  <!-- mountains -->
+  <path d="M0 310 L180 165 L310 285 L470 145 L650 310 Z" fill="#10151a"/>
+  <path d="M720 310 L910 155 L1030 255 L1185 120 L1400 310 Z" fill="#111419"/>
+  <path d="M0 330 L240 225 L405 325 L575 225 L755 330 Z" fill="#171a1f" opacity=".9"/>
+  <path d="M650 335 L820 230 L1010 335 L1190 215 L1400 335 Z" fill="#171a1f" opacity=".9"/>
+
+  <!-- fortress / wall -->
+  <g fill="#0b0e12">
+    <rect x="0" y="300" width="1400" height="120"/>
+    <rect x="95" y="250" width="80" height="95"/>
+    <rect x="1225" y="240" width="80" height="105"/>
+    <rect x="118" y="225" width="34" height="30"/>
+    <rect x="1248" y="210" width="34" height="35"/>
+    <rect x="40" y="280" width="26" height="30"/>
+    <rect x="1335" y="275" width="26" height="35"/>
+  </g>
+
+  <!-- sword-like center line -->
+  <g transform="translate(700 72)" opacity=".75">
+    <rect x="-2" y="0" width="4" height="75" rx="2" fill="url(#gold)"/>
+    <polygon points="0,-13 6,2 -6,2" fill="#d1ad4a"/>
+    <rect x="-22" y="68" width="44" height="4" rx="2" fill="#8b2e3f"/>
+  </g>
+
+  <!-- subtle code glyphs -->
+  <text x="150" y="210" fill="#727b86" opacity=".26" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="34">&lt;/&gt;</text>
+  <text x="1160" y="210" fill="#727b86" opacity=".26" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="34">{ }</text>
+
+  <!-- title -->
+  <text x="700" y="155" text-anchor="middle" fill="#f1e9dc"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="54" letter-spacing="7">
+    NAFISA MEHZABIN
+  </text>
+  <text x="700" y="198" text-anchor="middle" fill="#a8a29b"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" letter-spacing="3">
+    @thevintagecoder
+  </text>
+
+  <line x1="430" y1="225" x2="970" y2="225" stroke="url(#gold)" stroke-width="1.5" opacity=".8"/>
+
+  <text x="700" y="267" text-anchor="middle" fill="#d1ad4a"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" font-weight="700" letter-spacing="6">
+    CODE • READ • LIFT • REPEAT
+  </text>
+  <text x="700" y="302" text-anchor="middle" fill="#8d9299"
+        font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">
+    DEVELOPER • WRITER • BUILDER
+  </text>
+
+  <rect x="0" y="0" width="1400" height="420" fill="none" stroke="#5c3d23" stroke-width="2" opacity=".65"/>
+</svg>
