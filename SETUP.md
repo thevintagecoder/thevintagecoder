@@ -1,19 +1,18 @@
-# Animated Game of Thrones Profile — Setup
+# One-time setup
 
-After replacing your profile repository with these files:
+After copying these files into `thevintagecoder/thevintagecoder` and pushing:
 
-1. Push the files to `thevintagecoder/thevintagecoder`.
+1. Open the repository on GitHub.
 2. Go to **Settings → Actions → General → Workflow permissions**.
-3. Select **Read and write permissions** and save.
-4. Go to the **Actions** tab and manually run these once:
-   - `Latest Medium Articles`
-   - `Generate Westeros War Map`
-   - `GitHub-Profile-3D-Contrib`
-5. Refresh your GitHub profile after the workflows finish.
+3. Choose **Read and write permissions** and save.
+4. Open the **Actions** tab.
+5. Run these workflows once:
+   - **Latest Medium Articles**
+   - **Generate Westeros War Map**
+   - **GitHub-Profile-3D-Contrib**
+6. When all three finish, refresh your GitHub profile.
 
-The 3D section is generated into:
-`profile-3d-contrib/profile-night-view.svg`
-
-The fiery contribution animation is published to the `output` branch.
-
-The animated hero banner and animated dividers are local SVG files in `assets/`.
+Expected results:
+- Medium article titles become clickable and stay auto-updated.
+- The War Map is regenerated in burgundy/bronze/gold.
+- `profile-3d-contrib/profile-night-view.svg` is generated for the Seven Kingdoms section.

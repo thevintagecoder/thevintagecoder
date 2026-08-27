@@ -18,21 +18,21 @@
 
 <img
 
-src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=26&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=820&height=55&lines=A+coder+of+the+North...;Forging+projects+across+the+realm...;Writing+dispatches+from+the+Citadel...;Code+%E2%80%A2+Read+%E2%80%A2+Lift+%E2%80%A2+Repeat"
+  src="https://readme-typing-svg.demolab.com?font=Georgia&weight=700&size=26&duration=3200&pause=900&color=C9A227&center=true&vCenter=true&width=820&height=55&lines=A+coder+of+the+North...;Forging+projects+across+the+realm...;Writing+dispatches+from+the+Citadel...;Code+%E2%80%A2+Read+%E2%80%A2+Lift+%E2%80%A2+Repeat"
 
-alt="Animated intro"
+  alt="Animated intro"
 
 />
 
 <p>
 
-<b>Developer</b> ·
+  <b>Developer</b> ·
 
-<b>Computer Science Student</b> ·
+  <b>Computer Science Student</b> ·
 
-<b>Writer</b> ·
+  <b>Writer</b> ·
 
-<b>Builder</b>
+  <b>Builder</b>
 
 </p>
 
@@ -40,31 +40,31 @@ alt="Animated intro"
 
 <a href="https://www.linkedin.com/in/nafisa-mehzabin-5460a7257/">
 
-<img
+  <img
 
-src="https://img.shields.io/badge/SEND_A_RAVEN-0D1117?style=for-the-badge&logo=linkedin&logoColor=C9A227"
+    src="https://img.shields.io/badge/SEND_A_RAVEN-0D1117?style=for-the-badge&logo=linkedin&logoColor=C9A227"
 
-alt="Send a Raven — LinkedIn"
+    alt="Send a Raven — LinkedIn"
 
-height="36"
+    height="36"
 
-/>
+  />
 
 </a>
 
-  
+&nbsp;&nbsp;
 
 <a href="https://medium.com/@thevintagecoder">
 
-<img
+  <img
 
-src="https://img.shields.io/badge/ENTER_THE_CITADEL-0D1117?style=for-the-badge&logo=medium&logoColor=C9A227"
+    src="https://img.shields.io/badge/ENTER_THE_CITADEL-0D1117?style=for-the-badge&logo=medium&logoColor=C9A227"
 
-alt="Enter the Citadel — Medium"
+    alt="Enter the Citadel — Medium"
 
-height="36"
+    height="36"
 
-/>
+  />
 
 </a>
 
@@ -88,15 +88,15 @@ height="36"
 
 Computer Science student building projects, writing about what I learn, and collecting new skills along the way.
 
-🏰 Developer — turning ideas into mobile, web, and experimental projects.
+- 🏰 **Developer** — turning ideas into mobile, web, and experimental projects.
 
-📜 Writer — documenting projects, lessons, and discoveries on Medium.
+- 📜 **Writer** — documenting projects, lessons, and discoveries on [Medium](https://medium.com/@thevintagecoder).
 
-📚 Reader — usually somewhere between one more chapter and finishing the whole book.
+- 📚 **Reader** — usually somewhere between *one more chapter* and finishing the whole book.
 
-🏋️ Lifter — consistency in the gym, consistency in the codebase.
+- 🏋️ **Lifter** — consistency in the gym, consistency in the codebase.
 
-🧭 Currently exploring — Spring Boot, React, and Retrieval-Augmented Generation (RAG).
+- 🧭 **Currently exploring** — **Spring Boot**, **React**, and **Retrieval-Augmented Generation (RAG)**.
 
 <br />
 
@@ -104,11 +104,11 @@ Computer Science student building projects, writing about what I learn, and coll
 
 <img
 
-src="https://media1.tenor.com/m/IBqrDT3AILUAAAAd/house-stark-the-north-remembers.gif"
+  src="https://media1.tenor.com/m/IBqrDT3AILUAAAAd/house-stark-the-north-remembers.gif"
 
-alt="House Stark — The North Remembers"
+  alt="House Stark — The North Remembers"
 
-width="360"
+  width="360"
 
 />
 
@@ -120,6 +120,8 @@ width="360"
 
 <br />
 
+---
+
 <!-- ═══════════════════════════════  THE ARSENAL  ═══════════════════════════════ -->
 
 <div align="center">
@@ -128,59 +130,59 @@ width="360"
 
   <h3>LANGUAGES</h3>
 
-<img
+  <img
 
-src="https://skillicons.dev/icons?i=python,java,c,dart,js,html,css&theme=dark"
+    src="https://skillicons.dev/icons?i=python,java,c,dart,js,html,css&theme=dark"
 
-alt="Python, Java, C, Dart, JavaScript, HTML and CSS"
+    alt="Python, Java, C, Dart, JavaScript, HTML and CSS"
 
-/>
+  />
 
-<br /><br />
+  <br /><br />
 
   <h3>FRAMEWORKS & DEVELOPMENT</h3>
 
-<img
+  <img
 
-src="https://skillicons.dev/icons?i=flutter&theme=dark"
+    src="https://skillicons.dev/icons?i=flutter&theme=dark"
 
-alt="Flutter"
+    alt="Flutter"
 
-/>
+  />
 
-<br /><br />
+  <br /><br />
 
   <h3>TOOLS OF THE TRADE</h3>
 
-<img
+  <img
 
-src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"
+    src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"
 
-alt="Git, GitHub, VS Code and Android Studio"
+    alt="Git, GitHub, VS Code and Android Studio"
 
-/>
+  />
 
-<br /><br />
+  <br /><br />
 
   <h3>CURRENTLY FORGING</h3>
 
-<img
+  <img
 
-src="https://skillicons.dev/icons?i=spring,react&theme=dark"
+    src="https://skillicons.dev/icons?i=spring,react&theme=dark"
 
-alt="Spring Boot and React"
+    alt="Spring Boot and React"
 
-/>
+  />
 
-<br /><br />
+  <br /><br />
 
-<img
+  <img
 
-src="https://img.shields.io/badge/RAG-CURRENTLY_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1A1A"
+    src="https://img.shields.io/badge/RAG-CURRENTLY_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1A1A"
 
-alt="Currently learning Retrieval-Augmented Generation"
+    alt="Currently learning Retrieval-Augmented Generation"
 
-/>
+  />
 
 </div>
 
@@ -312,21 +314,23 @@ A <b>Studio Ghibli-themed VS Code extension</b> bringing a forest-inspired atmos
 
 <a href="https://github.com/thevintagecoder?tab=repositories">
 
-<img
+  <img
 
-src="https://img.shields.io/badge/EXPLORE_THE_REST_OF_THE_REALM-0D1117?style=for-the-badge&logo=github&logoColor=C9A227"
+    src="https://img.shields.io/badge/EXPLORE_THE_REST_OF_THE_REALM-0D1117?style=for-the-badge&logo=github&logoColor=C9A227"
 
-alt="Explore all repositories"
+    alt="Explore all repositories"
 
-height="34"
+    height="34"
 
-/>
+  />
 
 </a>
 
 </div>
 
 <br />
+
+---
 
 <!-- ═══════════════════════════════  THE CITADEL  ═══════════════════════════════ -->
 
@@ -341,7 +345,6 @@ height="34"
 </div>
 
 <!-- BLOG-POST-LIST:START -->
-
 <p>🐉 <a href="https://medium.com/@thevintagecoder/building-a-game-of-thrones-inspired-survival-predictor-as-a-beginner-machine-learning-project-dd86388d539d"><b>Building a Game of Thrones-Inspired Survival Predictor as a Beginner Machine Learning Project</b></a></p>
 
 <p>🖐️ <a href="https://medium.com/@thevintagecoder/how-to-turn-your-webcam-into-a-game-controller-a-beginners-guide-to-computer-vision-ca6ec5753a47"><b>How to Turn Your Webcam into a Game Controller: A Beginner’s Guide to Computer Vision</b></a></p>
@@ -357,15 +360,15 @@ height="34"
 
 <a href="https://medium.com/@thevintagecoder">
 
-<img
+  <img
 
-src="https://img.shields.io/badge/READ_ALL_DISPATCHES-0D1117?style=for-the-badge&logo=medium&logoColor=C9A227"
+    src="https://img.shields.io/badge/READ_ALL_DISPATCHES-0D1117?style=for-the-badge&logo=medium&logoColor=C9A227"
 
-alt="Read all Medium articles"
+    alt="Read all Medium articles"
 
-height="34"
+    height="34"
 
-/>
+  />
 
 </a>
 
@@ -409,7 +412,11 @@ height="34"
 
 <p align="center"><b>Strength, consistency, and progressive overload.</b></p>
 
+```bash
+
 git commit -m "progressive overload"
+
+```
 
 <p align="center">The training arc continues.</p>
 
@@ -421,17 +428,19 @@ git commit -m "progressive overload"
 
 <br />
 
+---
+
 <!-- ═══════════════════════════════  FIRE AND BLOOD  ═══════════════════════════════ -->
 
 <div align="center">
 
 <img
 
-src="https://media1.tenor.com/m/z_GQW8BhEXYAAAAd/game-of-thrones-dragon.gif"
+  src="https://media1.tenor.com/m/z_GQW8BhEXYAAAAd/game-of-thrones-dragon.gif"
 
-alt="Dragon"
+  alt="Dragon"
 
-width="580"
+  width="580"
 
 />
 
@@ -455,41 +464,43 @@ width="580"
 
   <h1>⚔️ WAR RECORDS</h1>
 
-<img
+  <img
 
-src="https://img.shields.io/github/followers/thevintagecoder?style=for-the-badge&label=FOLLOWERS&color=1A1A1A&labelColor=0D1117"
+    src="https://img.shields.io/github/followers/thevintagecoder?style=for-the-badge&label=FOLLOWERS&color=1A1A1A&labelColor=0D1117"
 
-alt="GitHub followers"
+    alt="GitHub followers"
 
-/>
+  />
 
- 
+  &nbsp;
 
-<img
+  <img
 
-src="https://img.shields.io/github/stars/thevintagecoder?affiliations=OWNER&style=for-the-badge&label=STARS_EARNED&color=1A1A1A&labelColor=0D1117"
+    src="https://img.shields.io/github/stars/thevintagecoder?affiliations=OWNER&style=for-the-badge&label=STARS_EARNED&color=1A1A1A&labelColor=0D1117"
 
-alt="GitHub stars"
+    alt="GitHub stars"
 
-/>
+  />
 
- 
+  &nbsp;
 
   <a href="https://github.com/thevintagecoder?tab=repositories">
 
-<img
+    <img
 
-src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=C9A227"
+      src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=C9A227"
 
-alt="View repositories"
+      alt="View repositories"
 
-/>
+    />
 
   </a>
 
 </div>
 
 <br />
+
+---
 
 <!-- ═══════════════════════════════  3D REALM  ═══════════════════════════════ -->
 
@@ -503,11 +514,11 @@ alt="View repositories"
 
 <img
 
-src="./profile-3d-contrib/profile-night-view.svg"
+  src="./profile-3d-contrib/profile-night-view.svg"
 
-alt="3D GitHub contribution realm"
+  alt="3D GitHub contribution realm"
 
-width="100%"
+  width="100%"
 
 />
 
@@ -518,6 +529,8 @@ width="100%"
 </div>
 
 <br />
+
+---
 
 <!-- ═══════════════════════════════  FIERY WAR MAP  ═══════════════════════════════ -->
 
@@ -531,29 +544,29 @@ width="100%"
 
 <picture>
 
-<source
+  <source
 
-media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark)"
 
-srcset="https://raw.githubusercontent.com/thevintagecoder/thevintagecoder/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/thevintagecoder/thevintagecoder/output/github-snake-dark.svg"
 
-/>
+  />
 
-<source
+  <source
 
-media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: light)"
 
-srcset="https://raw.githubusercontent.com/thevintagecoder/thevintagecoder/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/thevintagecoder/thevintagecoder/output/github-snake.svg"
 
-/>
+  />
 
-<img
+  <img
 
-src="https://raw.githubusercontent.com/thevintagecoder/thevintagecoder/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/thevintagecoder/thevintagecoder/output/github-snake.svg"
 
-alt="The War Map — GitHub contributions"
+    alt="The War Map — GitHub contributions"
 
-/>
+  />
 
 </picture>
 
@@ -583,31 +596,31 @@ alt="The War Map — GitHub contributions"
 
 <a href="https://www.linkedin.com/in/nafisa-mehzabin-5460a7257/">
 
-<img
+  <img
 
-src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C9A227"
+    src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=C9A227"
 
-alt="LinkedIn"
+    alt="LinkedIn"
 
-height="34"
+    height="34"
 
-/>
+  />
 
 </a>
 
-  
+&nbsp;&nbsp;
 
 <a href="https://medium.com/@thevintagecoder">
 
-<img
+  <img
 
-src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=C9A227"
+    src="https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=C9A227"
 
-alt="Medium"
+    alt="Medium"
 
-height="34"
+    height="34"
 
-/>
+  />
 
 </a>
 
