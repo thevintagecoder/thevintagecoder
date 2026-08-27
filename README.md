@@ -184,7 +184,7 @@ Computer Science student building projects, writing about what I learn, and coll
 <br>
 <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D GitHub contribution realm" width="100%" />
 <br>
-<sub>If this is blank after your first push, run the <b>GitHub-Profile-3D-Contrib</b> workflow once from the Actions tab.</sub>
+
 </div>
 
 <br>
