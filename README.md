@@ -1,13 +1,7 @@
 <!-- ═══════════════════════════════  BANNER  ═══════════════════════════════ -->
 
 <div align="center">
-
-<img
-  src="./assets/banner.svg"
-  alt="Nafisa Mehzabin — Code • Read • Lift • Repeat"
-  width="100%"
-/>
-
+  <img src="./assets/banner.svg" alt="Nafisa Mehzabin — Code • Read • Lift • Repeat" width="100%" />
 </div>
 
 <br />
@@ -28,7 +22,7 @@
 
 _Building things one quest at a time._
 
-<br />
+<br /><br />
 
 <a href="https://www.linkedin.com/in/nafisa-mehzabin-5460a7257/">
   <img
@@ -71,8 +65,8 @@ Computer Science student building projects, writing about what I learn, and coll
 <div align="center">
 
 <img
-  src="./assets/stark.gif"
-  alt="House Stark"
+  src="https://media1.tenor.com/m/IBqrDT3AILUAAAAd/house-stark-the-north-remembers.gif"
+  alt="House Stark — The North Remembers"
   width="360"
 />
 
@@ -126,11 +120,11 @@ Computer Science student building projects, writing about what I learn, and coll
   alt="Spring Boot and React"
 />
 
-<br />
+<br /><br />
 
 <img
-  src="https://img.shields.io/badge/Retrieval--Augmented_Generation-RAG-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1A1A"
-  alt="Learning Retrieval-Augmented Generation"
+  src="https://img.shields.io/badge/RAG-Currently_Learning-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1A1A"
+  alt="Currently learning Retrieval-Augmented Generation"
 />
 
 </div>
@@ -261,15 +255,19 @@ _Quiet loyalty. Long winters. Strong commits._
 
 ---
 
-<!-- ═══════════════════════════════  DRAGON DIVIDER  ═══════════════════════════════ -->
+<!-- ═══════════════════════════════  FIRE AND BLOOD  ═══════════════════════════════ -->
 
 <div align="center">
 
 <img
-  src="./assets/dragon.gif"
+  src="https://media1.tenor.com/m/z_GQW8BhEXYAAAAd/game-of-thrones-dragon.gif"
   alt="Dragon"
   width="580"
 />
+
+<br />
+
+### 🔥 FIRE AND BLOOD
 
 </div>
 
@@ -299,11 +297,15 @@ _Quiet loyalty. Long winters. Strong commits._
 
 ---
 
-<!-- ═══════════════════════════════  CONTRIBUTION MAP  ═══════════════════════════════ -->
-
-## 🗺️ The Realm's Activity
+<!-- ═══════════════════════════════  THE WAR MAP  ═══════════════════════════════ -->
 
 <div align="center">
+
+## 🐉 The War Map
+
+_Every square marks another battle fought in the realm of code._
+
+<br />
 
 <picture>
   <source
@@ -316,9 +318,13 @@ _Quiet loyalty. Long winters. Strong commits._
   />
   <img
     src="https://raw.githubusercontent.com/thevintagecoder/thevintagecoder/output/github-snake.svg"
-    alt="GitHub contribution snake"
+    alt="The War Map — GitHub contributions"
   />
 </picture>
+
+<br />
+
+<sub>🔥 The realm grows one commit at a time.</sub>
 
 </div>
 

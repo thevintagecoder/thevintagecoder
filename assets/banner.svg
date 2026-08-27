@@ -1,81 +1,96 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-label="Nafisa Mehzabin — The Vintage Coder">
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-label="Nafisa Mehzabin — Game of Thrones inspired developer banner">
   <defs>
-    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
-      <stop offset="0%" stop-color="#07090c"/>
-      <stop offset="55%" stop-color="#151116"/>
-      <stop offset="100%" stop-color="#34131b"/>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#05070a"/>
+      <stop offset="45%" stop-color="#11151a"/>
+      <stop offset="78%" stop-color="#1b1115"/>
+      <stop offset="100%" stop-color="#3c151c"/>
     </linearGradient>
     <linearGradient id="gold" x1="0" x2="1">
-      <stop offset="0%" stop-color="#8c6d1f"/>
-      <stop offset="50%" stop-color="#d1ad4a"/>
-      <stop offset="100%" stop-color="#8c6d1f"/>
+      <stop offset="0%" stop-color="#6f5418"/>
+      <stop offset="50%" stop-color="#d0aa45"/>
+      <stop offset="100%" stop-color="#6f5418"/>
     </linearGradient>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <linearGradient id="mist" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#bfc3c7" stop-opacity=".13"/>
+      <stop offset="100%" stop-color="#bfc3c7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft">
+      <feGaussianBlur stdDeviation="9"/>
     </filter>
   </defs>
 
-  <rect width="1400" height="420" fill="url(#bg)"/>
+  <rect width="1600" height="500" fill="url(#sky)"/>
 
-  <!-- distant stars / embers -->
-  <g fill="#d1ad4a" opacity=".45">
-    <circle cx="90" cy="70" r="2"/><circle cx="160" cy="120" r="1.5"/><circle cx="230" cy="60" r="1"/>
-    <circle cx="1160" cy="90" r="2"/><circle cx="1280" cy="135" r="1.5"/><circle cx="1090" cy="52" r="1"/>
-    <circle cx="360" cy="95" r="1.5"/><circle cx="980" cy="110" r="1.5"/>
+  <!-- cold northern mist -->
+  <ellipse cx="320" cy="285" rx="420" ry="85" fill="url(#mist)" filter="url(#soft)"/>
+  <ellipse cx="1240" cy="295" rx="430" ry="90" fill="url(#mist)" filter="url(#soft)"/>
+
+  <!-- mountain layers -->
+  <path d="M0 355 L155 210 L250 300 L365 175 L520 355 Z" fill="#0c1014"/>
+  <path d="M365 355 L545 205 L675 315 L795 190 L950 355 Z" fill="#0f1318"/>
+  <path d="M825 355 L1005 185 L1115 290 L1265 150 L1450 355 Z" fill="#0b0f13"/>
+  <path d="M1190 355 L1360 205 L1600 355 Z" fill="#11151a"/>
+
+  <!-- Winterfell-like fortress silhouette -->
+  <g fill="#080b0f">
+    <rect x="0" y="345" width="1600" height="155"/>
+    <rect x="140" y="305" width="86" height="92"/>
+    <rect x="176" y="265" width="18" height="48"/>
+    <polygon points="175,265 185,245 195,265"/>
+    <rect x="1280" y="295" width="92" height="105"/>
+    <rect x="1316" y="250" width="20" height="54"/>
+    <polygon points="1315,250 1326,228 1337,250"/>
+    <rect x="285" y="325" width="54" height="74"/>
+    <rect x="1160" y="320" width="58" height="80"/>
   </g>
 
-  <!-- mountains -->
-  <path d="M0 310 L180 165 L310 285 L470 145 L650 310 Z" fill="#10151a"/>
-  <path d="M720 310 L910 155 L1030 255 L1185 120 L1400 310 Z" fill="#111419"/>
-  <path d="M0 330 L240 225 L405 325 L575 225 L755 330 Z" fill="#171a1f" opacity=".9"/>
-  <path d="M650 335 L820 230 L1010 335 L1190 215 L1400 335 Z" fill="#171a1f" opacity=".9"/>
-
-  <!-- fortress / wall -->
-  <g fill="#0b0e12">
-    <rect x="0" y="300" width="1400" height="120"/>
-    <rect x="95" y="250" width="80" height="95"/>
-    <rect x="1225" y="240" width="80" height="105"/>
-    <rect x="118" y="225" width="34" height="30"/>
-    <rect x="1248" y="210" width="34" height="35"/>
-    <rect x="40" y="280" width="26" height="30"/>
-    <rect x="1335" y="275" width="26" height="35"/>
+  <!-- raven silhouette -->
+  <g transform="translate(235 125) scale(1.05)" fill="#020304" opacity=".92">
+    <path d="M0 30 C32 4,66 8,88 23 C67 18,53 21,39 33 C61 29,78 37,92 54 C67 42,44 43,20 56 C24 44,18 35,0 30Z"/>
+    <path d="M84 22 L115 8 L100 28 Z"/>
   </g>
 
-  <!-- sword-like center line -->
-  <g transform="translate(700 72)" opacity=".75">
-    <rect x="-2" y="0" width="4" height="75" rx="2" fill="url(#gold)"/>
-    <polygon points="0,-13 6,2 -6,2" fill="#d1ad4a"/>
-    <rect x="-22" y="68" width="44" height="4" rx="2" fill="#8b2e3f"/>
+  <!-- distant dragon silhouette -->
+  <g transform="translate(1260 100)" fill="#050608" opacity=".88">
+    <path d="M0 32 C34 9,64 14,90 31 C118 10,145 9,174 24 C145 24,128 34,110 48 C136 52,155 68,170 87 C135 70,108 65,82 67 C56 66,31 73,0 89 C18 68,34 51,55 44 C35 42,18 38,0 32Z"/>
+    <path d="M80 67 L72 94 L90 73 Z"/>
   </g>
 
-  <!-- subtle code glyphs -->
-  <text x="150" y="210" fill="#727b86" opacity=".26" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="34">&lt;/&gt;</text>
-  <text x="1160" y="210" fill="#727b86" opacity=".26" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="34">{ }</text>
+  <!-- subtle sword -->
+  <g transform="translate(800 76)">
+    <rect x="-2.5" y="0" width="5" height="86" rx="2.5" fill="url(#gold)" opacity=".9"/>
+    <polygon points="0,-15 7,4 -7,4" fill="#d0aa45"/>
+    <rect x="-25" y="78" width="50" height="5" rx="2.5" fill="#78313c"/>
+  </g>
 
   <!-- title -->
-  <text x="700" y="155" text-anchor="middle" fill="#f1e9dc"
-        font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="54" letter-spacing="7">
+  <text x="800" y="188" text-anchor="middle" fill="#f0e8db"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="60" letter-spacing="8">
     NAFISA MEHZABIN
   </text>
-  <text x="700" y="198" text-anchor="middle" fill="#a8a29b"
+
+  <text x="800" y="232" text-anchor="middle" fill="#9ea4aa"
         font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="20" letter-spacing="3">
     @thevintagecoder
   </text>
 
-  <line x1="430" y1="225" x2="970" y2="225" stroke="url(#gold)" stroke-width="1.5" opacity=".8"/>
+  <line x1="470" y1="262" x2="1130" y2="262" stroke="url(#gold)" stroke-width="1.5" opacity=".85"/>
 
-  <text x="700" y="267" text-anchor="middle" fill="#d1ad4a"
-        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" font-weight="700" letter-spacing="6">
+  <text x="800" y="307" text-anchor="middle" fill="#d0aa45"
+        font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="23" font-weight="700" letter-spacing="7">
     CODE • READ • LIFT • REPEAT
   </text>
-  <text x="700" y="302" text-anchor="middle" fill="#8d9299"
-        font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3">
+
+  <text x="800" y="346" text-anchor="middle" fill="#8e949a"
+        font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="4">
     DEVELOPER • WRITER • BUILDER
   </text>
 
-  <rect x="0" y="0" width="1400" height="420" fill="none" stroke="#5c3d23" stroke-width="2" opacity=".65"/>
+  <text x="800" y="389" text-anchor="middle" fill="#6f747b"
+        font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="17">
+    The North remembers. The commits do too.
+  </text>
+
+  <rect x="1" y="1" width="1598" height="498" fill="none" stroke="#5f4022" stroke-width="2" opacity=".72"/>
 </svg>
