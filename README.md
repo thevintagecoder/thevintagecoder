@@ -10,17 +10,17 @@
 
 <div align="center">
 
-# NAFISA MEHZABIN
+NAFISA MEHZABIN
 
-**`@thevintagecoder`**
+@thevintagecoder
 
-### CODE • READ • LIFT • REPEAT
+CODE • READ • LIFT • REPEAT
 
-`Developer` · `Computer Science Student` · `Writer` · `Builder`
+Developer · Computer Science Student · Writer · Builder
 
 <br />
 
-_Building things one quest at a time._
+Building things one quest at a time.
 
 <br /><br />
 
@@ -32,7 +32,7 @@ _Building things one quest at a time._
   />
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://medium.com/@thevintagecoder">
   <img
@@ -46,28 +46,30 @@ _Building things one quest at a time._
 
 <br />
 
----
-
 <!-- ═══════════════════════════════  THE CHRONICLE  ═══════════════════════════════ -->
 
-## ⚔️ The Chronicle
+⚔️ The Chronicle
 
 Computer Science student building projects, writing about what I learn, and collecting new skills along the way.
 
-- 🏰 **Developer** — turning ideas into mobile, web, and experimental projects.
-- 📜 **Writer** — documenting projects, lessons, and discoveries on [Medium](https://medium.com/@thevintagecoder).
-- 📚 **Reader** — usually somewhere between _one more chapter_ and finishing the whole book.
-- 🏋️ **Lifter** — consistency in the gym, consistency in the codebase.
-- 🧭 **Currently exploring** — **Spring Boot**, **React**, and **Retrieval-Augmented Generation (RAG)**.
+🏰 Developer — turning ideas into mobile, web, and experimental projects.
+
+📜 Writer — documenting projects, lessons, and discoveries on Medium.
+
+📚 Reader — usually somewhere between one more chapter and finishing the whole book.
+
+🏋️ Lifter — consistency in the gym, consistency in the codebase.
+
+🧭 Currently exploring — Spring Boot, React, and Retrieval-Augmented Generation (RAG).
 
 <br />
 
 <div align="center">
 
 <img
-  src="https://media1.tenor.com/m/IBqrDT3AILUAAAAd/house-stark-the-north-remembers.gif"
-  alt="House Stark — The North Remembers"
-  width="360"
+src="https://media1.tenor.com/m/IBqrDT3AILUAAAAd/house-stark-the-north-remembers.gif"
+alt="House Stark — The North Remembers"
+width="360"
 />
 
 <br />
@@ -78,146 +80,192 @@ Computer Science student building projects, writing about what I learn, and coll
 
 <br />
 
----
-
 <!-- ═══════════════════════════════  THE ARSENAL  ═══════════════════════════════ -->
 
-## 🗡️ The Arsenal
+🗡️ The Arsenal
 
 <div align="center">
 
-### Languages
+Languages
 
 <img
-  src="https://skillicons.dev/icons?i=python,java,c,dart,js,html,css&theme=dark"
-  alt="Python, Java, C, Dart, JavaScript, HTML and CSS"
+src="https://skillicons.dev/icons?i=python,java,c,dart,js,html,css&theme=dark"
+alt="Python, Java, C, Dart, JavaScript, HTML and CSS"
 />
 
 <br /><br />
 
-### Frameworks & Development
+Frameworks & Development
 
 <img
-  src="https://skillicons.dev/icons?i=flutter&theme=dark"
-  alt="Flutter"
+src="https://skillicons.dev/icons?i=flutter&theme=dark"
+alt="Flutter"
 />
 
 <br /><br />
 
-### Tools of the Trade
+Tools of the Trade
 
 <img
-  src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"
-  alt="Git, GitHub, VS Code and Android Studio"
+src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark"
+alt="Git, GitHub, VS Code and Android Studio"
 />
 
 <br /><br />
 
-### Currently Forging
+Currently Forging
 
 <img
-  src="https://skillicons.dev/icons?i=spring,react&theme=dark"
-  alt="Spring Boot and React"
+src="https://skillicons.dev/icons?i=spring,react&theme=dark"
+alt="Spring Boot and React"
 />
 
 <br /><br />
 
 <img
-  src="https://img.shields.io/badge/RAG-Currently_Learning-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1A1A"
-  alt="Currently learning Retrieval-Augmented Generation"
+src="https://img.shields.io/badge/RAG-CURRENTLY_LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1A1A"
+alt="Currently learning Retrieval-Augmented Generation"
 />
 
 </div>
 
 <br />
-
----
 
 <!-- ═══════════════════════════════  QUESTS OF THE REALM  ═══════════════════════════════ -->
 
-## 🏰 Quests of the Realm
+🏰 Quests of the Realm
 
-<div align="center">
-
-<a href="https://github.com/thevintagecoder/TempleGestures">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=thevintagecoder&repo=TempleGestures&bg_color=0D1117&title_color=C9A227&text_color=D8CFC4&icon_color=8B2E3F&border_color=30363D"
-    alt="TempleGestures"
-    width="420"
-  />
-</a>
-
-<a href="https://github.com/thevintagecoder/game-of-thrones-survival-predictor">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=thevintagecoder&repo=game-of-thrones-survival-predictor&bg_color=0D1117&title_color=C9A227&text_color=D8CFC4&icon_color=8B2E3F&border_color=30363D"
-    alt="Game of Thrones Survival Predictor"
-    width="420"
-  />
-</a>
-
-<a href="https://github.com/thevintagecoder/bismillah-pomodoro">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=thevintagecoder&repo=bismillah-pomodoro&bg_color=0D1117&title_color=C9A227&text_color=D8CFC4&icon_color=8B2E3F&border_color=30363D"
-    alt="Bismillah Pomodoro"
-    width="420"
-  />
-</a>
-
-<a href="https://github.com/thevintagecoder/ghibli-forest-theme-vscode-extension">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=thevintagecoder&repo=ghibli-forest-theme-vscode-extension&bg_color=0D1117&title_color=C9A227&text_color=D8CFC4&icon_color=8B2E3F&border_color=30363D"
-    alt="Ghibli Forest Theme VS Code Extension"
-    width="420"
-  />
-</a>
-
-<br /><br />
-
-<sub>
-  <a href="https://github.com/thevintagecoder?tab=repositories">
-    Explore the rest of the realm →
-  </a>
-</sub>
-
-</div>
-
-<br />
-
----
-
-<!-- ═══════════════════════════════  THE CITADEL  ═══════════════════════════════ -->
-
-## 📜 Dispatches from the Citadel
-
-Things I build, break, learn, and eventually write down.
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<br />
-
-<a href="https://medium.com/@thevintagecoder">
-  <b>Read all dispatches →</b>
-</a>
-
-<br /><br />
-
----
-
-<!-- ═══════════════════════════════  BEYOND THE WALL  ═══════════════════════════════ -->
-
-## 🐺 Life Beyond the Wall
+<!--
+These are intentionally built as normal GitHub/HTML cards instead of
+github-readme-stats repository images. That makes this section much more
+reliable and prevents broken-image cards when the external stats service
+is unavailable.
+-->
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📚 The Library
+🖐️ TempleGestures
 
-**Currently reading**
+Turn Temple Run into a gesture-controlled game using computer vision and your webcam.
 
-_The Inmate_  
-by **Freida McFadden**
+Python · OpenCV · MediaPipe · PyAutoGUI
+
+<a href="https://github.com/thevintagecoder/TempleGestures">
+  <img src="https://img.shields.io/badge/ENTER_QUEST-0D1117?style=for-the-badge&logo=github&logoColor=C9A227" alt="Open TempleGestures" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/github/stars/thevintagecoder/TempleGestures?style=for-the-badge&label=STARS&color=1A1A1A&labelColor=0D1117" alt="TempleGestures stars" />
+
+</td>
+<td width="50%" valign="top">
+
+🐉 Game of Thrones Survival Predictor
+
+A beginner machine-learning project that predicts whether a fictional Game of Thrones-inspired character survives.
+
+Machine Learning · Python · Jupyter Notebook
+
+<a href="https://github.com/thevintagecoder/game-of-thrones-survival-predictor">
+  <img src="https://img.shields.io/badge/ENTER_QUEST-0D1117?style=for-the-badge&logo=github&logoColor=C9A227" alt="Open Game of Thrones Survival Predictor" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+⏳ Bismillah Pomodoro
+
+A Pomodoro project built around focused work, consistency, and getting things done one session at a time.
+
+<a href="https://github.com/thevintagecoder/bismillah-pomodoro">
+  <img src="https://img.shields.io/badge/ENTER_QUEST-0D1117?style=for-the-badge&logo=github&logoColor=C9A227" alt="Open Bismillah Pomodoro" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+🌲 Ghibli Forest Theme
+
+A Studio Ghibli-themed VS Code extension bringing a forest-inspired atmosphere into the editor.
+
+VS Code Extension · Theme
+
+<a href="https://github.com/thevintagecoder/ghibli-forest-theme-vscode-extension">
+  <img src="https://img.shields.io/badge/ENTER_QUEST-0D1117?style=for-the-badge&logo=github&logoColor=C9A227" alt="Open Ghibli Forest Theme" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br />
+
+<a href="https://github.com/thevintagecoder?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/EXPLORE_THE_REST_OF_THE_REALM-0D1117?style=for-the-badge&logo=github&logoColor=C9A227"
+    alt="Explore all repositories"
+  />
+</a>
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════  THE CITADEL  ═══════════════════════════════ -->
+
+📜 Dispatches from the Citadel
+
+Things I build, break, learn, and eventually write down.
+
+These entries are automatically refreshed from my Medium feed.
+
+<!-- BLOG-POST-LIST:START -->
+
+🐉 Building a Game of Thrones-Inspired Survival Predictor as a Beginner Machine Learning Project
+
+🖐️ How to Turn Your Webcam into a Game Controller: A Beginner’s Guide to Computer Vision
+
+☕ Stop Clicking “Run”: A Step-by-Step Guide to Learning Java the Real Way with Sublime Text and the Terminal
+
+🏰 Walk Before You Run: How to Start Coding Without the “Setup Anxiety”
+
+<!-- BLOG-POST-LIST:END -->
+
+<br />
+
+<div align="center">
+
+<a href="https://medium.com/@thevintagecoder">
+  <img
+    src="https://img.shields.io/badge/READ_ALL_DISPATCHES-0D1117?style=for-the-badge&logo=medium&logoColor=C9A227"
+    alt="Read all Medium articles"
+  />
+</a>
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════════════  BEYOND THE WALL  ═══════════════════════════════ -->
+
+🐺 Life Beyond the Wall
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+📚 The Library
+
+Currently reading
+
+The Inmate
+by Freida McFadden
 
 <br />
 
@@ -227,13 +275,11 @@ Books are usually what happens when the laptop finally closes.
 
 <td width="50%" valign="top">
 
-### 🏋️ The Training Grounds
+🏋️ The Training Grounds
 
 Strength, consistency, and progressive overload.
 
-```bash
 git commit -m "progressive overload"
-```
 
 The training arc continues.
 
@@ -245,29 +291,27 @@ The training arc continues.
 
 <div align="center">
 
-### 🐺 House Stark
+🐺 House Stark
 
-_Quiet loyalty. Long winters. Strong commits._
+Quiet loyalty. Long winters. Strong commits.
 
 </div>
 
 <br />
-
----
 
 <!-- ═══════════════════════════════  FIRE AND BLOOD  ═══════════════════════════════ -->
 
 <div align="center">
 
 <img
-  src="https://media1.tenor.com/m/z_GQW8BhEXYAAAAd/game-of-thrones-dragon.gif"
-  alt="Dragon"
-  width="580"
+src="https://media1.tenor.com/m/z_GQW8BhEXYAAAAd/game-of-thrones-dragon.gif"
+alt="Dragon"
+width="580"
 />
 
 <br />
 
-### 🔥 FIRE AND BLOOD
+🔥 FIRE AND BLOOD
 
 </div>
 
@@ -275,35 +319,42 @@ _Quiet loyalty. Long winters. Strong commits._
 
 <!-- ═══════════════════════════════  WAR RECORDS  ═══════════════════════════════ -->
 
-## 🔥 War Records
+⚔️ War Records
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=thevintagecoder&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=C9A227&text_color=D8CFC4&icon_color=8B2E3F&border_color=30363D"
-  alt="GitHub statistics for thevintagecoder"
-  height="170"
+src="https://img.shields.io/github/followers/thevintagecoder?style=for-the-badge&label=FOLLOWERS&color=1A1A1A&labelColor=0D1117"
+alt="GitHub followers"
 />
 
+ 
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevintagecoder&layout=compact&langs_count=8&bg_color=0D1117&title_color=C9A227&text_color=D8CFC4&border_color=30363D"
-  alt="Most used languages"
-  height="170"
+src="https://img.shields.io/github/stars/thevintagecoder?affiliations=OWNER&style=for-the-badge&label=STARS_EARNED&color=1A1A1A&labelColor=0D1117"
+alt="GitHub stars"
 />
+
+ 
+
+<a href="https://github.com/thevintagecoder?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0D1117?style=for-the-badge&logo=github&logoColor=C9A227"
+    alt="View repositories"
+  />
+</a>
 
 </div>
 
 <br />
 
----
-
 <!-- ═══════════════════════════════  THE WAR MAP  ═══════════════════════════════ -->
 
 <div align="center">
 
-## 🐉 The War Map
+🐉 The War Map
 
-_Every square marks another battle fought in the realm of code._
+Every square marks another battle fought in the realm of code.
 
 <br />
 
@@ -330,15 +381,13 @@ _Every square marks another battle fought in the realm of code._
 
 <br />
 
----
-
 <!-- ═══════════════════════════════  SEND A RAVEN  ═══════════════════════════════ -->
 
 <div align="center">
 
-## 🐦 Send a Raven
+🐦 Send a Raven
 
-_The ravens know where to find me._
+The ravens know where to find me.
 
 <br />
 
@@ -349,7 +398,7 @@ _The ravens know where to find me._
   />
 </a>
 
-&nbsp;&nbsp;
+  
 
 <a href="https://medium.com/@thevintagecoder">
   <img
@@ -360,7 +409,7 @@ _The ravens know where to find me._
 
 <br /><br />
 
-### CODE • READ • LIFT • REPEAT
+CODE • READ • LIFT • REPEAT
 
 <sub>Built somewhere between the Citadel and the North.</sub>
 
